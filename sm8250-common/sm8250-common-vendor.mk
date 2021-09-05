@@ -632,6 +632,7 @@ PRODUCT_PACKAGES += \
     CneApp \
     IWlanService \
     QCC-TR-UI \
+    SoterService \
     TimeService \
     com.qualcomm.qti.gpudrivers.kona.api30 \
     PowerOffAlarm \
